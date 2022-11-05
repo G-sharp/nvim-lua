@@ -1,3 +1,4 @@
-## Screenshot
+## My Nvim Config Lua
 
-![screenshot](https://github.com/bitterteasweetorange/nivm/blob/main/screenshot.png)
+1. Install Packer first.
+
